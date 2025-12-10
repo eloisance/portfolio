@@ -2,7 +2,7 @@
 
 My personal website used as portfolio, built with Next.js and the help of AI (Google AI Studio and Gemini).
 
-Hosted on OVH VPS and accessible at : https://emmanuel.loisance.fr.
+Hosted on OVH VPS and accessible at : https://emmanuel-loisance.fr.
 
 ## Getting Started
 
