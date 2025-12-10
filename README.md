@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio
+
+My personal website used as portfolio, built with Next.js and the help of AI (Google AI Studio and Gemini).
+
+Hosted on OVH VPS and accessible at : https://emmanuel.loisance.fr.
 
 ## Getting Started
 
