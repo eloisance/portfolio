@@ -67,7 +67,7 @@ export const MediumFeed: React.FC<MediumFeedProps> = ({ username }) => {
 
   return (
     <section>
-      <div className="flex flex-col md:flex-row justify-between items-end mb-12 gap-4">
+      <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-12 gap-4">
         <div>
           <h2 className="text-xs font-bold tracking-[0.2em] text-accent uppercase mb-3">
             Writing
